@@ -80,17 +80,6 @@
 
 ---
 
-##  FEATURED.PROJECTS
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=magister89&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/magister89/portfolio)
-[![FinCLI](https://github-readme-stats.vercel.app/api/pin/?username=magister89&repo=fincli&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/magister89/fincli)
-
-</div>
-
----
-
 ## 🌐 CONNECT.PROTOCOL
 
 <div align="center">
