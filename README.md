@@ -4,8 +4,12 @@
 
 </div>
 
+<div align="center">
+
 ### ⚙️ DATA & SOLUTIONS ARCHITECT
 #### 💻 // dev in my spare time
+
+</div>
 
 ---
 
