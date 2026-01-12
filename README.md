@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E+INTERFACE+2037+READY+FOR+INQUIRY;%3E+MU-TH-UR+6000+ONLINE;%3E+PROCESSING+REQUEST...+STAND+BY)](https://git.io/typing-svg)
 
-### `DATA & SOLUTIONS ARCHITECT`
-#### `// dev in my spare time`
-
 </div>
+
+### ⚙️ DATA & SOLUTIONS ARCHITECT
+#### 💻 // dev in my spare time
 
 ---
 
