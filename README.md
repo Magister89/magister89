@@ -6,6 +6,8 @@
 
 <div align="center">
 
+---
+
 ### ⚙️ DATA & SOLUTIONS ARCHITECT
 #### 💻 // dev in my spare time
 
@@ -77,7 +79,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magister89)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=safari&logoColor=black)](https://magister89.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=safari&logoColor=black)](https://giorgiocembran.io)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/giorgio-cembran/badges)
 
 </div>
@@ -94,7 +96,5 @@
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=magister89&color=00FF41&style=for-the-badge&label=VISITORS)
 
 </div>
