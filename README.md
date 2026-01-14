@@ -8,14 +8,14 @@
 
 ---
 
-### ⚙️ DATA & SOLUTIONS ARCHITECT
+### DATA & SOLUTIONS ARCHITECT
 #### dev in my spare time
 
 </div>
 
 ---
 
-## ⚡ SYSTEM.STATUS
+## SYSTEM.STATUS
 
 ```json
 {
@@ -50,18 +50,18 @@
 
 ---
 
-## 🔮 TECH.MATRIX
+## TECH.MATRIX
 
 <div align="center">
 
-### 「 CORE LANGUAGES 」
+### CORE LANGUAGES
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 「 FRAMEWORKS & TOOLS 」
+### FRAMEWORKS & TOOLS
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-## 🌐 CONNECT.PROTOCOL
+## CONNECT
 
 <div align="center">
 
