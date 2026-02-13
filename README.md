@@ -21,8 +21,8 @@
 {
   "readings": [
     {
-      "author": "Luciano Floridi",
-      "title": "La differenza fondamentale. Artificial Agency: una nuova filosofia dell'intelligenza artificiale"
+      "author": "John C. Bogle",
+      "title": "The Little Book of Common Sense Investing"
     },
     {
       "author": "Daron Acemoglu, James Robinson",
