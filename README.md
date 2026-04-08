@@ -25,8 +25,8 @@
       "title": "The Little Book of Common Sense Investing"
     },
     {
-      "author": "Daron Acemoglu, James Robinson",
-      "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty"
+      "author": "Cormac McCarthy",
+      "title": "The Road"
     }
   ],
   "courses": [
