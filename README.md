@@ -36,7 +36,7 @@
     },
     {
       "platform": "Udemy",
-      "name": "Go - The Complete Guide"
+      "name": "Exploring The Technologies Behind GPT-5, o3, BERT & AI Agent"
     }
   ],
   "hobbies": [
